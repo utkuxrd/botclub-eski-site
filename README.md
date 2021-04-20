@@ -19,7 +19,11 @@ Türkiye'nin En Kaliteli ve Ücretsiz Kod Paylaşım Sitesi | https://botclub.ne
 - "Biz yaptık" şekilde konuşamazsın.
 - Satışını yapamazsınız.
 
+
+
 For ENG
+
+
 
 <h1> About Bot Club </h1>
 
