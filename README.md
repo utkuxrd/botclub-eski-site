@@ -6,9 +6,7 @@
 
 <h1> Bot Club Hakkında </h1>
 
-Discord üzerinde bot geliştirip ve bu botları youtube üzerinde izleyicilerim ile paylaşan sıradan birisiyim. 
-Discord sunucuma katılmayı ve youtube kanalıma abone olmayı unutma!
-
+Bot Club Eski Discord Temalı Sitesi | Bu Altyapıyı Bot Club Yönetimi Olarak Paylaşma Kararı Aldık!
 Türkiye'nin En Kaliteli ve Ücretsiz Kod Paylaşım Sitesi | https://botclub.net/
 
 <h1> Ekstra Kullanım Şartları </h1>
