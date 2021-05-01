@@ -1,0 +1,22 @@
+[
+    {
+        "kodlar": {
+            "Otorol Mesaj Ayarlama v11": {
+                "isim": "Otorol Mesaj Ayarlama v11",
+                "id": "z7CmCXSlEa",
+                "desc": "Otorol komutundaki giriş mesajini ayarlar.",
+                "modules": [
+                    "discord.js ",
+                    " quick.db"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/327064201245753344/47065092ded33fbcb78210437e01e8e8.png",
+                "main_code": "Main kismina bir şey atilmayacaktir.",
+                "komutlar_code": "const Discord = require('discord.js');\r\nconst db = require('quick.db')\r\nexports.run = (client, message, args) => { \r\n  \r\n        if (!message.member.hasPermission(\"ADMINISTRATOR\")) return message.channel.send(` Bu komutu kullanabilmek için \"\\`Yönetici\\`\" yetkisine sahip olmalısın.`);\r\n  \r\n  let mesaj = args.slice(0).join(' ');\r\n  if(mesaj.length < 5) return message.channel.send(client.emojis.get(\"647760202875142154\") + ' Otorol Mesaj Sistemi İçin En Az 5 Karakter Belirtebilirsin. Örnek: `-oto-rol-msg -uye- Hoşgeldin! senle beraber -uyesayisi- Kişiyiz!`')\r\n  \r\n message.channel.send(client.emojis.get(\"647746144155467786\") + ' Oto-Rol mesajını `'+mesaj+'` Olarak ayarladım.') \r\n db.set(`otoRM_${message.guild.id}`, mesaj)  \r\n\r\n  \r\n};\r\nexports.conf = {\r\n  enabled: true,  \r\n  guildOnly: false, \r\n  aliases: ['oto-rol-msg'], \r\n  permLevel: 0\r\n};\r\n\r\nexports.help = {\r\n  name: 'otorol-msg',\r\n  description: 'taslak', \r\n  usage: 'sayac-hg-msg'\r\n};",
+                "kod_rank": "altin",
+                "k_adi": "ღ scínєlч",
+                "date": "8/7/2020"
+
+            }
+        }
+    }
+]

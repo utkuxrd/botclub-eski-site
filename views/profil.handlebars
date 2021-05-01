@@ -1,0 +1,135 @@
+<title>Bot Club | {{member.user.username}}</title>
+
+<br><br><br>
+<div class="container">
+          <div class="row gutters-sm">
+            <div class="col-md-4 mb-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="d-flex flex-column align-items-center text-center">
+                     <a class="pluse-avatar-dnd" href="https://discordapp.com/users/{{member.user.id}}" class="twPc-avatarLink" style="border-radius: 50%">
+                    <img alt="Avatar" src="{{avatarURL}}" class="twPc-avatarImg">
+                     </a>
+                    <div class="mt-3">
+                      <h4>{{member.user.username}}</h4>
+		      
+
+                      
+                      
+                      
+                      
+                      
+                    </div>
+                    <p class="text-muted mb-0">
+                      Bu kullanıcının sistemde toplam <font color="#7289da">{{#if stats}} {{stats.paylasilan}} {{/if}} </font> kodu bulunmaktadır.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-8">
+              <div class="card mb-3">
+                <div class="card-body">
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <h6 class="mb-0">Kullanıcı Adı</h6>
+                    </div>
+                    <div class="col-sm-9 text-secondary">
+                      {{member.user.username}}
+                    </div>
+                  </div>
+                  <hr>
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <h6 class="mb-0">Bot mu?</h6>
+                    </div>
+                    <div class="col-sm-9 text-secondary">
+                      Hayır
+                    </div>
+                  </div>
+                  <hr>
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <h6 class="mb-0">Rozetler (BAKIM)</h6>
+                    </div>
+                    <div class="col-sm-9 text-secondary">
+                      
+
+
+                    <img draggable="false" src="https://discord.com/assets/9fdc63ef8a3cc1617c7586286c34e4f1.svg" class="tippy mr-1" data-tippy-content="HypeSquad Balance" width="25px">
+               
+            
+          
+          
+                    </div>
+                  </div>
+                  <hr>
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <h6 class="mb-0">Roller</h6>
+                    </div>
+ <style>
+.role {
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px 7px;;
+  display: block;
+  }           
+   .circleRole {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+   }
+ 
+</style>
+                    <div class="col-sm-9 text-secondary">
+                      <div class="row">
+                        
+
+
+<a class="role" style="border-color: #7289da;margin: 2px;; color: #7289da"><span style="background-color: #7289da" class="circleRole"></span> Kullanıcı</a>
+
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    
+
+<!-- SCRIPTS -->
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>

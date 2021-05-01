@@ -1,0 +1,53 @@
+<style>
+#avatar2 {
+    transition: all .6s ease-in-out;
+    cursor: pointer;
+    text-align:center;
+}
+    #avatar2:hover {
+        transform: translate(0px,-10px);
+        -webkit-transform: translate(0px,-10px);
+	}
+  </style>
+
+<title>Creative Devs | Sizden Gelenler</title>
+<br><br>
+  <h1 class="text-center text-light font-weight-bolder">
+    Sizden Gelenler
+  </h1>
+  <h5 class="text-center text-light font-weight-light">
+    Daha Fazla Bilgi İçin <a style="text-decoration:none" href="/davet" target="_blank">Discord Sunucumuza</a> Katılın!
+  </h5>
+<hr>
+
+<div class="container">
+  <input id="search" type="text" class="form-control" placeholder="Kod Ara" aria-label="Kod Ara" aria-describedby="basic-addon2">
+</div><br>
+
+<div style="margin-left: 0.1rem; margin-right: 0.1rem;" class="row row-cols-1 row-cols-md-4">
+
+  {{#each kodlar}}
+  <div class="col mb-1" id="avatar2">
+  <div class="card text-white bg-secondary mb-4" style="max-width: 27rem;">
+  <div class="card-header"><center><img src="http://www.oztekhaberlesme.com.tr/img/login.png" alt="avatar" style="border-width: 1rem; border: solid;border-radius: 25%; max-width: 100%; height: 5rem; color: #23272a;"></center> </br><b><center><i class="fas fa-user"></i> ・{{this.k_adi}}</center></b></div>
+  <div class="card-body">
+    <p class="card-text avatar"><b> <i class="fas fa-folder"></i> ・ {{this.isim}}</b></p>
+    <p class="card-text avatar"><b><i class="fas fa-exclamation-circle"></i> ・ {{this.desc}}</b></p>
+      <a href="/topluluk/{{this.id}}" style="background-color: #7289da;" class="btn btn-md btn-block text-white"><i class="fa fa-eye"></i> <b>Koda Bak</b></a> 
+  </div>
+    </div>
+</div>
+{{/each}}
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("#search").keyup(function(){
+    var value = $(this).val().toLowerCase();
+    $(".card, .mb-3").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>

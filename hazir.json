@@ -1,0 +1,230 @@
+[
+    {
+        "kodlar": {
+            "300 Komutlu Efsane Altyapı": {
+                "isim": "300 Komutlu Efsane Altyapı",
+                "id": "Mo6qsqndDj",
+                "desc": "Gelişmiş Web Paneli 300 Komutlu Altyapı",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/236173144300191754/a_dff0d9411d631a6651711eb31f746c42.png",
+                "main_code": "https://tr.link/300kot",
+                "komutlar_code": "https://tr.link/300kot",
+                "kod_rank": "hazir",
+                "k_adi": "Lord Creative",
+                "date": "8/7/2020"
+            },
+            "Özel Oda Sistemi": {
+                "isim": "Özel Oda Sistemi",
+                "id": "wTi9gA0YDg",
+                "desc": "Gelişmiş Özel Oda Sistemi",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/236173144300191754/a_dff0d9411d631a6651711eb31f746c42.png",
+                "main_code": "https://tr.link/ozels2",
+                "komutlar_code": "https://tr.link/ozels2",
+                "kod_rank": "hazir",
+                "k_adi": "Lord Creative",
+                "date": "8/7/2020"
+            },
+            "Gelişmiş Kod Paylaşma Botu": {
+                "isim": "Gelişmiş Kod Paylaşma Botu",
+                "id": "wRL7OiVVLm",
+                "desc": "Gelişmiş Kod Paylaşma Botu",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/236173144300191754/a_dff0d9411d631a6651711eb31f746c42.png",
+                "main_code": " https://tr.link/codebo",
+                "komutlar_code": " https://tr.link/codebo",
+                "kod_rank": "hazir",
+                "k_adi": "Lord Creative",
+                "date": "8/7/2020"
+            },
+            "Gelişmiş Kayıt Botu": {
+                "isim": "Gelişmiş Kayıt Botu",
+                "id": "U7RTqipQPc",
+                "desc": "Kayıt Botu",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/236173144300191754/a_dff0d9411d631a6651711eb31f746c42.png",
+                "main_code": "https://tr.link/regisS",
+                "komutlar_code": "https://tr.link/regisS",
+                "kod_rank": "hazir",
+                "k_adi": "Lord Creative",
+                "date": "8/7/2020"
+            },
+            "J4J Botu": {
+                "isim": "J4J Botu",
+                "id": "01c4cm1mHf",
+                "desc": "Gelişmiş J4J Botu",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/236173144300191754/a_dff0d9411d631a6651711eb31f746c42.png",
+                "main_code": "https://tr.link/J4JBO",
+                "komutlar_code": "https://tr.link/J4JBO",
+                "kod_rank": "hazir",
+                "k_adi": "Lord Creative",
+                "date": "8/7/2020"
+            },
+            "Boş Altyapı": {
+                "isim": "Boş Altyapı",
+                "id": "qnPwkoKss5",
+                "desc": "Boş Altyapı",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/236173144300191754/a_dff0d9411d631a6651711eb31f746c42.png",
+                "main_code": "https://tr.link/b0sal",
+                "komutlar_code": "https://tr.link/b0sal",
+                "kod_rank": "hazir",
+                "k_adi": "Lord Creative",
+                "date": "8/7/2020"
+            },
+            "MC-AT ALTYAPİ": {
+                "isim": "MC-AT ALTYAPİ",
+                "id": "X18tKWzZeQ",
+                "desc": "MC-AT ALTYAPİ V11",
+                "modules": [
+                    "Altyapi"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/327064201245753344/47065092ded33fbcb78210437e01e8e8.png",
+                "main_code": "https://glitch.com/edit/#!/fynx-mcat-altyapi?path=bot.js%3A1%3A0",
+                "komutlar_code": "https://glitch.com/edit/#!/fynx-mcat-altyapi?path=bot.js%3A1%3A0",
+                "kod_rank": "hazir",
+                "k_adi": "ღ scínєlч",
+                "date": "8/8/2020"
+            },
+            "HASTEBİN SİTESİ": {
+                "isim": "HASTEBİN SİTESİ",
+                "id": "XWLRIH2fVy",
+                "desc": "ADİ ÜZERİNDE",
+                "modules": [
+                    "Altyapi"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/327064201245753344/47065092ded33fbcb78210437e01e8e8.png",
+                "main_code": "https://glitch.com/edit/#!/fynxcode-hastebin?path=server.js%3A65%3A0",
+                "komutlar_code": "https://glitch.com/edit/#!/fynxcode-hastebin?path=server.js%3A65%3A0",
+                "kod_rank": "hazir",
+                "k_adi": "ღ scínєlч",
+                "date": "8/8/2020"
+            },
+            "İnvite Manager Altyapi": {
+                "isim": "İnvite Manager Altyapi",
+                "id": "U3OoLnFqPQ",
+                "desc": "Açiklamaya gerek yok. Başlikta yaziyor. ",
+                "modules": [
+                    "Altyapi"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/327064201245753344/47065092ded33fbcb78210437e01e8e8.png",
+                "main_code": "https://glitch.com/edit/#!/fynxcode-invitemanager?path=bot.js%3A1%3A0",
+                "komutlar_code": "https://glitch.com/edit/#!/fynxcode-invitemanager?path=bot.js%3A1%3A0",
+                "kod_rank": "hazir",
+                "k_adi": "ღ scínєlч",
+                "date": "8/8/2020"
+            },
+            "V12 Boş Genel Bot Altyapısıdır": {
+                "isim": "V12 Boş Genel Bot Altyapısıdır",
+                "id": "cnxMmaTtCI",
+                "desc": "EFSO BOŞ ALTYAPI",
+                "modules": [
+                    "Altyapının İçinde"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/449573143158194186/bff6a2c99454da31646f9436cd885582.png",
+                "main_code": "https://glitch.com/~v12-genel-bot",
+                "komutlar_code": "https://glitch.com/~v12-genel-bot",
+                "kod_rank": "hazir",
+                "k_adi": "ilbey",
+                "date": "8/11/2020"
+            },
+            "kucuktasel-musicv1": {
+                "isim": "kucuktasel-musicv1",
+                "id": "xceKbOyKWR",
+                "desc": "KucukTasel Müzik Botu V1",
+                "modules": [
+                    "discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/604201849247105024/c223c634157cb1c9f86993b28875f7f1.png",
+                "main_code": "https://bit.ly/kucuktasel-musicv1",
+                "komutlar_code": "https://bit.ly/kucuktasel-musicv1",
+                "kod_rank": "hazir",
+                "k_adi": "KucukTasel",
+                "date": "8/12/2020"
+            },
+            "kucuktasel-kayit-bot": {
+                "isim": "kucuktasel-kayit-bot",
+                "id": "W6Xajgz0Ay",
+                "desc": "KucukTasel Kayıt Botu",
+                "modules": [
+                    "discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/604201849247105024/c223c634157cb1c9f86993b28875f7f1.png",
+                "main_code": "https://bit.ly/kucuktasel-kayit-bot",
+                "komutlar_code": "https://bit.ly/kucuktasel-kayit-bot",
+                "kod_rank": "hazir",
+                "k_adi": "KucukTasel",
+                "date": "8/12/2020"
+            },
+            "kucuktasel-musicv2": {
+                "isim": "kucuktasel-musicv2",
+                "id": "gSwQN2K9aW",
+                "desc": "KucukTasel Müzik Botu V2",
+                "modules": [
+                    "discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/604201849247105024/c223c634157cb1c9f86993b28875f7f1.png",
+                "main_code": "https://bit.ly/kucuktasel-muzikv2",
+                "komutlar_code": "https://bit.ly/kucuktasel-muzikv2",
+                "kod_rank": "hazir",
+                "k_adi": "KucukTasel",
+                "date": "8/12/2020"
+            },
+            "discord-sesli-mesaj-bot": {
+                "isim": "discord-sesli-mesaj-bot",
+                "id": "hUBKQRUycw",
+                "desc": "KucukTasel Sesli Mesaj Bot",
+                "modules": [
+                    "discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/604201849247105024/c223c634157cb1c9f86993b28875f7f1.png",
+                "main_code": "https://bit.ly/kucuktasel-soylet-botu",
+                "komutlar_code": "https://bit.ly/kucuktasel-soylet-botu",
+                "kod_rank": "hazir",
+                "k_adi": "KucukTasel",
+                "date": "8/12/2020"
+            },
+            "kucuktasel-musicv3": {
+                "isim": "kucuktasel-musicv3",
+                "id": "8xP1uFCcoZ",
+                "desc": "KucukTasel Müzik Botu V3",
+                "modules": [
+                    "discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/604201849247105024/c223c634157cb1c9f86993b28875f7f1.png",
+                "main_code": "bit.ly/kucuktasel-musicv3",
+                "komutlar_code": "bit.ly/kucuktasel-musicv3",
+                "kod_rank": "hazir",
+                "k_adi": "KucukTasel",
+                "date": "8/12/2020"
+            },
+            "İnvite botu": {
+                "isim": "İnvite botu",
+                "id": "fdIKweyjvl",
+                "desc": "inivte botudur",
+                "modules": [
+                    "."
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/700436078414528583/364c14505ff2fedb73f9a482bedee841.png",
+                "main_code": "https://glitch.com/~occipital-lizard-countess\r\nKod alınıtıdır",
+                "komutlar_code": "https://glitch.com/~occipital-lizard-countess\r\nKod alıntıdır",
+                "kod_rank": "hazir",
+                "k_adi": "❦RC Deneyzamani",
+                "date": "8/13/2020"
+            }
+        }
+    }
+]

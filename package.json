@@ -1,0 +1,34 @@
+{
+  "name": "LozBey",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "barbarbar338, yashinu, alosha, Loz 'Bey",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bookman": "^1.6.4",
+    "cookie-parser": "^1.4.5",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.6",
+    "express-session": "^1.17.1",
+    "handlebars-helpers": "^0.10.0",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4",
+    "path": "^0.12.7",
+    "random-string": "^0.2.0",
+    "url": "^0.11.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
