@@ -22,23 +22,23 @@ for (let rank in ranks) {
 
 
 const IDler = {
-  botID: "816390933381513256",
-  botToken: "ODE2MzkwOTMzMzgxNTEzMjU2.YD6RTg.Jknf5cr4Llz6y-0UdQfYSvUGzPk",
-  botSecret: "MOCDKYiBwW2LHggzGetV9iy0gNK0suAZ",
-  botCallbackURL: "https://real-north-mechanic.glitch.me/callback",
-  sunucuID: "821735295681822720",
-  sunucuDavet: "https://discord.gg/qr3fzc9xag",
-  kodLogKanalı: "821735295681822723",
-  sahipRolü: "821794223455731772",
-  adminRolü: "821794223455731772",
-  kodPaylaşımcıRolü: "821794223455731772",
-  boosterRolü: "821794223455731772",
+  botID: "BOT İD",
+  botToken: "TOKEN",
+  botSecret: "BOT SECRET",
+  botCallbackURL: "CALLBACK URL",
+  sunucuID: "SUNUCU İD",
+  sunucuDavet: "SUNUCU DAVET",
+  kodLogKanalı: "KOD LOG",
+  sahipRolü: "SAHİP ROLÜ",
+  adminRolü: "Admin ROLÜ",
+  kodPaylaşımcıRolü: "Kod Paylaşımcı ROLÜ",
+  boosterRolü: "Booster ROLÜ",
   kodPaylaşamayacakRoller: ["BANLI ROL İD", "BANLI ROL İD"],
-  hazırAltyapılarRolü: "821794223455731772",
-  hazırSistemlerRolü: "821794223455731772",
-  elmasKodlarRolü: "821794223455731772",
-  altınKodlarRolü: "821794223455731772",
-  normalKodlarRolü: "821794223455731772"
+  hazırAltyapılarRolü: "Altyapı ROL İD",
+  hazırSistemlerRolü: "Sizden Gelenler ROL İD",
+  elmasKodlarRolü: "Elmas Kodlar ROL İD",
+  altınKodlarRolü: "Altın Kodlar ROL İD",
+  normalKodlarRolü: "normal kodlar rol id"
 };
 
 const app = express();
